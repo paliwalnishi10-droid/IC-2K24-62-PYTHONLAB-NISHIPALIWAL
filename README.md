@@ -23,3 +23,7 @@ Programs
 5. String Manipulation
 6. Escape Sequence Practice
 7. Menu Driven Calculator
+
+lab 2
+all programs of lab 2 are
+1. 
